@@ -1,0 +1,13 @@
+                             URLS:
+For Testing Email : vandanaverma@gmail.com
+Pass  : user
+1)Haryana Marriage Registration
+Staging:-       https://hryfamilymarriage.hartron.io/
+Production:-    https://shaadi.edisha.gov.in/dashboard
+
+2)Haryana Parivar Pehchaan Authority
+Staging:- 
+Productuion:-
+
+3)Grievance:-
+https://grievance.hartron.io/grievance
